@@ -40,6 +40,13 @@ const Home = () => {
             fontSize: "1rem",
           }}
         >
+          Home page
+        </Typography>
+        <Typography
+          sx={{
+            fontSize: "1rem",
+          }}
+        >
           List Categories
         </Typography>
         <ul>
