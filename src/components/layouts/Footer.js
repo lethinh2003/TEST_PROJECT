@@ -10,7 +10,7 @@ const Footer = () => {
           width: "100vw",
         }}
       >
-        Footer
+        Footer huhu
       </Box>
     </>
   );
